@@ -5,9 +5,9 @@
 
 ## Инвариантная самостоятельная работа
 
-[Задание ИСР 1.1](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/Задание ИСР 1.1.docx): Изучить и проанализировать печатные и Интернет-источники по философским проблемам информатики.
+[Задание ИСР 1.1](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%98%D0%A1%D0%A0%201.1.docx): Изучить и проанализировать печатные и Интернет-источники по философским проблемам информатики.
 
-[Задание ИСР 1.2](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/Задание ИСР 1.2.pdf): Выделить важные этапы в истории развития информатики и их социальные последствия.
+[Задание ИСР 1.2](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%98%D0%A1%D0%A0%201.2.pdf): Выделить важные этапы в истории развития информатики и их социальные последствия.
 
 [Задание ИСР 1.3](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/Задание ИСР 1.3.docx): Изучить стандарты и спецификации в сфере ИТ.
 
