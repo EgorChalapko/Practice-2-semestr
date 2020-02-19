@@ -1,4 +1,5 @@
 # Practice-2-semestr
+
 Репозиторий, в котором будут сохранены все задания практики второго семестра
 
 
@@ -63,3 +64,12 @@ http://www.consultant.ru/document/cons_doc_LAW_203183/
 ### Разработать фрагмент страницы, посвященной проекту "Вклад моей семьи в Победу в Великой Отечественной Войне", который проводится на кафедре к 75 годовщине Победы. 
 
 [Проект "Вклад моей семьи в Победу в Великой Отечественной Войне"](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20(%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%BC%D0%BE%D0%B5%D0%B9%20%D1%81%D0%B5%D0%BC%D1%8C%D0%B8%20%D0%B2%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%83%20%D0%B2%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9%20%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%92%D0%BE%D0%B9%D0%BD%D0%B5).html)
+
+
+
+## [Отчёт по практике](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.docx)
+
+
+
+## [Задание на практику](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83.docx)
+
