@@ -52,6 +52,9 @@ http://www.consultant.ru/document/cons_doc_LAW_203183/
 ## Задание по Markdown 
 
 [Страница "О кафедре"](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20Markdown%20(%D0%9E%20%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B5).md)
+
+
+
 [Ссылка на задание, расположенное в Moodle](https://moodle.herzen.spb.ru/mod/page/view.php?id=130673)
 
 
