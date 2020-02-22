@@ -67,7 +67,7 @@ http://www.consultant.ru/document/cons_doc_LAW_203183/
 
 
 
-## [Отчёт по практике](https://github.com/EgorChalapko/Practice-2-semestr/blob/master/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.docx)
+## Отчёт по практике
 
 
 
